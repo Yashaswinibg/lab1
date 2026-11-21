@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is my very first Git experiment.
+=======
+"This is my very first Git experiment." 
+>>>>>>> 6c87188244b9efc39f552114e041451bc61b4160
